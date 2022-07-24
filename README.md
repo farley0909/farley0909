@@ -6,9 +6,9 @@
 ### O que estou estudando?
 * Atualmente estou estudando: 
   * Inglês
-  * JavaScript
-  * C
-  * HTML/CSS
+  * Java
+  * Mysql
+  * Html/css
 <!--
 **farley0909/farley0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
